@@ -4,7 +4,7 @@ public class Dog {
 	String name;
 	String color;
 	String address;
-	boolean isVacinated;
+
 	
 	//Constructor
 	public Dog() {
@@ -38,12 +38,5 @@ public class Dog {
 		this.address = address;
 	}
 
-	public boolean isVacinated() {
-		return isVacinated;
-	}
-
-	public void setVacinated(boolean isVacinated) {
-		this.isVacinated = isVacinated;
-	}
 	
 }

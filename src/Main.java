@@ -30,6 +30,12 @@ public class Main {
 
 		Dog d1 = new Dog();
 		
+		d1.setName("Dobby");
+		System.out.println(d1.getName());
+		
+		Dog d2 = new Dog();
+		System.out.println(d2.getName());
+		
 	}
 }
 
