@@ -11,7 +11,7 @@ public class Dog {
 		this.name = "Blue";
 		this.color = "Ford";
 		this.address = "Henry Street";
-		this.isVacinated = true;
+
 	}
 
 	public String getName() {
