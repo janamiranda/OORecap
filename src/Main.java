@@ -25,7 +25,11 @@ public class Main {
 
 		System.out.println(c1.accelerate());
 	
+		Person p3 = new Person();
+		System.out.println(p3.getAge());
 
+		Dog d1 = new Dog();
+		
 	}
 }
 
